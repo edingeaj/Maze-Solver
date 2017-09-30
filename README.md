@@ -1,5 +1,4 @@
 # Maze-Solver
-A program for solving mazes using various searching techniques
 
 The Maze Solver program prompts the user for the path and filename of the maze
 puzzle, formatted as a .txt, to be solved and loads and converts the .txt
